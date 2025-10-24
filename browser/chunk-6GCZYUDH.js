@@ -1,0 +1,1 @@
+var e={get TOKEN(){return typeof window<"u"?localStorage.getItem("token")||sessionStorage.getItem("token"):null},get USER(){return typeof window<"u"?localStorage.getItem("user")||sessionStorage.getItem("user"):null},get REMEMBER_ME(){return typeof window<"u"?localStorage.getItem("rememberMe")||sessionStorage.getItem("rememberMe"):null}};export{e as a};

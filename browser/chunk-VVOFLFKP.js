@@ -1,0 +1,1 @@
+import{Bb as o,Cb as n,Tb as a,gb as c}from"./chunk-QAY2GC3V.js";import"./chunk-7CGTOI24.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=c({type:t,selectors:[["app-check-out"]],decls:2,vars:0,template:function(e,p){e&1&&(o(0,"p"),a(1,"check-out works!"),n())},encapsulation:2})};export{s as CheckOut};

@@ -1,0 +1,1 @@
+import"./chunk-7CGTOI24.js";var o=[{path:"",loadComponent:()=>import("./chunk-5P3WKNRM.js").then(t=>t.CartPage)},{path:"checkout/",loadComponent:()=>import("./chunk-VVOFLFKP.js").then(t=>t.CheckOut)}];export{o as CART_ROUTES};

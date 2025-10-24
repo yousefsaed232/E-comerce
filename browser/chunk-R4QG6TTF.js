@@ -1,0 +1,1 @@
+import"./chunk-7CGTOI24.js";var t=[{path:"",redirectTo:"signin",pathMatch:"full"},{path:"signin",loadComponent:()=>import("./chunk-BW6M5ZXO.js").then(o=>o.Signin)},{path:"signup",loadComponent:()=>import("./chunk-MX7XQKJW.js").then(o=>o.Signup)},{path:"forgot-password",loadComponent:()=>import("./chunk-6EMAOTSO.js").then(o=>o.ForgetPassword)}];export{t as AUTH_ROUTES};

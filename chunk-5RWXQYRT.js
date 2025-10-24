@@ -1,0 +1,1 @@
+import{Bb as a,Cb as s,Tb as m,gb as o}from"./chunk-QAY2GC3V.js";import"./chunk-7CGTOI24.js";var n=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-guest-home-page"]],decls:2,vars:0,template:function(e,i){e&1&&(a(0,"p"),m(1,"guest-home-page works!"),s())},encapsulation:2})};export{n as GuestHomePage};
